@@ -1,4 +1,4 @@
-package com.hankcs.textrank;
+﻿package com.hankcs.textrank;
 
 import java.util.List;
 import java.util.Map;

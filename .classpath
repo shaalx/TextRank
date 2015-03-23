@@ -3,5 +3,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ansj_seg-1.4.1-min"/>
+	<classpathentry kind="lib" path="D:/GIT/src/github.com/shaalx/TextRank/lib/ansj_seg-1.4.1-min.jar"/>
+	<classpathentry kind="lib" path="D:/GIT/src/github.com/shaalx/TextRank/lib/tree_split-1.4.jar"/>
 	<classpathentry kind="output" path="out/production/TextRank"/>
 </classpath>

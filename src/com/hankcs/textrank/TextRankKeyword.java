@@ -1,4 +1,4 @@
-package com.hankcs.textrank;
+﻿package com.hankcs.textrank;
 
 import org.ansj.domain.Term;
 import org.ansj.splitWord.analysis.ToAnalysis;
