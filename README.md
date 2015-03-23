@@ -1,6 +1,8 @@
 TextRank
 ========
 
+repo from hankcs-[github](https://github.com/hankcs/TextRank)
+
 TextRank算法提取关键词与自动摘要的Java实现
 
 TextRankKeyword提取关键词
