@@ -231,9 +231,8 @@ public class TextRankKeyword
 	       if(!dirs.exists()){
 	    	   dirs.createNewFile(); 
 		   }
-	        FileOutputStream FILE = new FileOutputStream(dir + "\\" + f.getName());        
+	        FileOutputStream FILE = new FileOutputStream(dir + "\\" + f.getName(), true);        
 	        OutputStreamWriter outStrW = new OutputStreamWriter(FILE, "utf-8"); //byte streams to character streams
-	
 	        outStrW.write(content);
 	        outStrW.flush();
 	
@@ -259,10 +258,16 @@ public class TextRankKeyword
 	        System.out.print(result);
 	        
 	        String content = String.format("%s\n%s\n", origin_dir + filename, terms.toString());
-	        content += String.format("%s\n%s\n", key_dir + filename, keys.toString());
+	        content += String.format("key words:\t %s\n", keys.toString());
 	        content += String.format("%s\n", result);
 	        
-	        writeToFile(stat_dir, filename, content);
+	        writeToFile(stat_dir, "filename.txt", content);
+	        
+//	        String keysS = terms.toString();
+//	        keysS = keysS.replaceAll(", ", "\t");
+//	        keysS = keysS.replace("[", "");
+//	        keysS = keysS.replace("]", "");
+//	        writeToFile(key_dir+"edu\\", filename, keysS);
 		}
 	}
     public static void main(String[] args)

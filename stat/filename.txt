@@ -1,0 +1,1098 @@
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education001.txt
+[天文, 教育, 两岸, 举行, 大陆, 祖国, 学者, 研讨会, 推广, 各项, 目前, 紫金山, 南京, 中国科学院, 台长]
+key words:	 [天文, 教育, 两岸, 举行, 大陆, 祖国, 学者, 研讨会, 推广, 各项, 目前, 紫金山, 南京, 中国科学院, 台长]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education003.txt
+[艺术, 教育, 学生, 我们, 能力, 学校, 他们, 发展, 音乐, 精神, 笔者, 教师, 一位, 不少, 中学]
+key words:	 [艺术, 教育, 学生, 我们, 能力, 学校, 他们, 发展, 音乐, 精神, 笔者, 教师, 一位, 不少, 中学]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education004.txt
+[沈阳, 大学生, 集邮, 邮票, 展出, 邮展, 其中, 6万多, 沈阳市, 我国, 通讯员, 第一次, 目前, 10日, 介绍]
+key words:	 [沈阳, 大学生, 集邮, 邮票, 展出, 邮展, 其中, 6万多, 沈阳市, 我国, 通讯员, 第一次, 目前, 10日, 介绍]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education006.txt
+[学生, 中国, 电影, 鸦片战争, 影片, 通知, 教育, 活动, 爱国主义, 斗争, 全国, 开展, 树立, 逐步, 演变]
+key words:	 [学生, 中国, 电影, 鸦片战争, 影片, 通知, 教育, 活动, 爱国主义, 斗争, 全国, 开展, 树立, 逐步, 演变]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education008.txt
+[校园, 经济, 全市, 种植, 学校, 中小学, 开发, 诸城市, 开展, 发展, 培育, 花卉, 玉米, 教育, 小麦]
+key words:	 [校园, 经济, 全市, 种植, 学校, 中小学, 开发, 诸城市, 开展, 发展, 培育, 花卉, 玉米, 教育, 小麦]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education010.txt
+[中国, 地质, 科学, 现在, 总书记, 我们, 发展, 知识分子, 讲话, 研究所, 名誉, 科学院, 传统, 全国, 提出]
+key words:	 [中国, 地质, 科学, 现在, 总书记, 我们, 发展, 知识分子, 讲话, 研究所, 名誉, 科学院, 传统, 全国, 提出]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education012.txt
+[知识分子, 讲话, 表示, 江泽民, 同志, 成长, 我国, 结合, 道路, 青年, 煤炭, 中国, 指出, 我们, 肩负]
+key words:	 [知识分子, 讲话, 表示, 江泽民, 同志, 成长, 我国, 结合, 道路, 青年, 煤炭, 中国, 指出, 我们, 肩负]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education014.txt
+[教育, 教育工作者, 教师, 学生, 学校, 自己, 老师, 工作, 事业, 罚款, 管理, 重视, 错误, 人类, 现象]
+key words:	 [教育, 教育工作者, 教师, 学生, 学校, 自己, 老师, 工作, 事业, 罚款, 管理, 重视, 错误, 人类, 现象]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education016.txt
+[希望, 工程, 捐款, 中国, 小学, 孩子, 贫困, 失学, 自己, 社会, 我们, 地区, ……, 他们, 全国]
+key words:	 [希望, 工程, 捐款, 中国, 小学, 孩子, 贫困, 失学, 自己, 社会, 我们, 地区, ……, 他们, 全国]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education018.txt
+[艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+key words:	 [艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education020.txt
+[爱国主义, 教育, 建设, 我国, 活动, 我们, 必须, 爱国, 人民, 历史, 群众, 精神, 文化, 开展, 民族]
+key words:	 [爱国主义, 教育, 建设, 我国, 活动, 我们, 必须, 爱国, 人民, 历史, 群众, 精神, 文化, 开展, 民族]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education022.txt
+[教育, 地区, 计生, 太平村, 计划生育, 人口, 儿歌, 独生子女, 组织, 实行, 经济, 大家, 工作, 菏泽, 道路]
+key words:	 [教育, 地区, 计生, 太平村, 计划生育, 人口, 儿歌, 独生子女, 组织, 实行, 经济, 大家, 工作, 菏泽, 道路]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education024.txt
+[孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+key words:	 [孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education026.txt
+[上海, 江泽民, 企业, 发展, 我们, 建设, 国有, 问题, 城市, 经济, 坚持, 改革, 全国, 国家, 代表]
+key words:	 [上海, 江泽民, 企业, 发展, 我们, 建设, 国有, 问题, 城市, 经济, 坚持, 改革, 全国, 国家, 代表]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education028.txt
+[科技, 高校, 发展, 工作, 教育, 改革, 社会, 经济, 研究, 人才, 全国, 期间, 建设, 李岚清, 结合]
+key words:	 [科技, 高校, 发展, 工作, 教育, 改革, 社会, 经济, 研究, 人才, 全国, 期间, 建设, 李岚清, 结合]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education030.txt
+[学生, 学校, 八十, 北京, 教育, 开展, 科技, 体育, 活动, 特色, 高中, 培养, 社会, 质量, 他们]
+key words:	 [学生, 学校, 八十, 北京, 教育, 开展, 科技, 体育, 活动, 特色, 高中, 培养, 社会, 质量, 他们]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education032.txt
+[教育, 发展, 九五, 全国, 高校, 义务教育, 目标, 改革, 办学, 工作, 规划, 体制, 期间, 两基, 实现]
+key words:	 [教育, 发展, 九五, 全国, 高校, 义务教育, 目标, 改革, 办学, 工作, 规划, 体制, 期间, 两基, 实现]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education034.txt
+[日本, 学生, 教育, 学校, 他们, 知识, 部门, 孩子, 接待, 可以, 重要, 内容, 国民, 校外, 学习]
+key words:	 [日本, 学生, 教育, 学校, 他们, 知识, 部门, 孩子, 接待, 可以, 重要, 内容, 国民, 校外, 学习]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education036.txt
+[教育, 问题, 办学, 大学生, 一些, 发展, 经费, 解决, 队伍, 院校, 人才, 教师, 高校, 有关, 北京]
+key words:	 [教育, 问题, 办学, 大学生, 一些, 发展, 经费, 解决, 队伍, 院校, 人才, 教师, 高校, 有关, 北京]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education038.txt
+[教育, 研究, 中心, 发展, 培养, 提出, 人才, 改革, 组织, 决策, 对策, 我国, 重大, 应用, 进行]
+key words:	 [教育, 研究, 中心, 发展, 培养, 提出, 人才, 改革, 组织, 决策, 对策, 我国, 重大, 应用, 进行]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education040.txt
+[教育, 基础教育, 发展, 社会, 义务教育, 工作, 学生, 素质, 学校, 提高, 政府, 教学, 教师, 世纪, 改革]
+key words:	 [教育, 基础教育, 发展, 社会, 义务教育, 工作, 学生, 素质, 学校, 提高, 政府, 教学, 教师, 世纪, 改革]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education042.txt
+[教育, 李岚清, 发展, 改革, 考察, 职工, 工作, 安徽, 河南, 培养, 职业, 进一步, 转变, 社会, 指出]
+key words:	 [教育, 李岚清, 发展, 改革, 考察, 职工, 工作, 安徽, 河南, 培养, 职业, 进一步, 转变, 社会, 指出]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education044.txt
+[职业, 教育, 发展, 我国, 人才, 期间, 社会, 改革, 国务院, 结构, 招生, 增加, 提高, 1990年, 不仅]
+key words:	 [职业, 教育, 发展, 我国, 人才, 期间, 社会, 改革, 国务院, 结构, 招生, 增加, 提高, 1990年, 不仅]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education046.txt
+[国家, 毕业生, 择业, 学生, 就业, 自主, 高校, 人才, 改革, 单位, 发展, 学校, 制度, 办法, 培养]
+key words:	 [国家, 毕业生, 择业, 学生, 就业, 自主, 高校, 人才, 改革, 单位, 发展, 学校, 制度, 办法, 培养]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education048.txt
+[艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+key words:	 [艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education051.txt
+[教育, 实施, 全国, 执法, 发展, 经费, 预算, 财政, 各级, 规定, 实行, 提高, 办学, 治教, 依法]
+key words:	 [教育, 实施, 全国, 执法, 发展, 经费, 预算, 财政, 各级, 规定, 实行, 提高, 办学, 治教, 依法]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education053.txt
+[孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+key words:	 [孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education055.txt
+[初中, 阶段, 教育, 高中, 目标, 出发, 实际, 成绩, 完成, 质量, 关系, 地区, 由于, 农二师, 同志]
+key words:	 [初中, 阶段, 教育, 高中, 目标, 出发, 实际, 成绩, 完成, 质量, 关系, 地区, 由于, 农二师, 同志]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education057.txt
+[教育, 改革, 教师, 办学, 李岚清, 学校, 江西, 大学, 南昌, 地方, 培养, 老区, 建设, 考察, 教学]
+key words:	 [教育, 改革, 教师, 办学, 李岚清, 学校, 江西, 大学, 南昌, 地方, 培养, 老区, 建设, 考察, 教学]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education059.txt
+[学生, 迷信, 活动, 科学, 烧香, 有的, 我们, 提高, 孩子, 神庙, 知识, 兴趣, 学校, 由于, 认为]
+key words:	 [学生, 迷信, 活动, 科学, 烧香, 有的, 我们, 提高, 孩子, 神庙, 知识, 兴趣, 学校, 由于, 认为]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education061.txt
+[学校, 家长, 学生, 太原, 情况, 联系, 家庭, 工大, 在校, 思想, 了解, 9月, 教育, 建议, 进行]
+key words:	 [学校, 家长, 学生, 太原, 情况, 联系, 家庭, 工大, 在校, 思想, 了解, 9月, 教育, 建议, 进行]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education063.txt
+[学生, 社会, 教育, 他们, 学校, 小学生, 小学, 长沙市, 参加, 实践, 家庭, 自己, 活动, 调查, 服务]
+key words:	 [学生, 社会, 教育, 他们, 学校, 小学生, 小学, 长沙市, 参加, 实践, 家庭, 自己, 活动, 调查, 服务]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education065.txt
+[学生, 考核, 方案, 中学, 政治, 思想, 内容, 高校, 浙江省, 中学生, 试行, 心理, 情况, 办法, 克服]
+key words:	 [学生, 考核, 方案, 中学, 政治, 思想, 内容, 高校, 浙江省, 中学生, 试行, 心理, 情况, 办法, 克服]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education067.txt
+[家长, 孩子, 如何, 学校, 子女, 教育, 厦门, 学习, 家庭, 讲座, 我们, 方法, 结果, 营养, 开办]
+key words:	 [家长, 孩子, 如何, 学校, 子女, 教育, 厦门, 学习, 家庭, 讲座, 我们, 方法, 结果, 营养, 开办]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education069.txt
+[升旗, 教育, 师生, 学校, 仪式, 担任, 进行, 制度, 有的, 济南, 建立, 中小学, 以来, 今年, 教委]
+key words:	 [升旗, 教育, 师生, 学校, 仪式, 担任, 进行, 制度, 有的, 济南, 建立, 中小学, 以来, 今年, 教委]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education071.txt
+[天津, 先生, 邵逸夫, 大学, 分别, 新馆, 落成, 图书馆, 南开, 代表, 提供, 幽雅, 建成, 舒适, 壮观]
+key words:	 [天津, 先生, 邵逸夫, 大学, 分别, 新馆, 落成, 图书馆, 南开, 代表, 提供, 幽雅, 建成, 舒适, 壮观]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education073.txt
+[教师, 教育, 中学, 师范, 他们, 院校, 希望, 校长, 事业, 报考, 学生, 中学生, 动员, 师资, 意义]
+key words:	 [教师, 教育, 中学, 师范, 他们, 院校, 希望, 校长, 事业, 报考, 学生, 中学生, 动员, 师资, 意义]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education075.txt
+[退款, 澳大利亚, 留学生, 海外, 学校, 申请, 英语, 重申, 驻华, 使馆, 政府, 保证, 作出, 代表, 已经]
+key words:	 [退款, 澳大利亚, 留学生, 海外, 学校, 申请, 英语, 重申, 驻华, 使馆, 政府, 保证, 作出, 代表, 已经]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education077.txt
+[培训, 中心, 我国, 教育, 专家, 合作, 技术, 人才, 进行, 联邦, 联邦德国, 项目, 经验, 先进, 职业]
+key words:	 [培训, 中心, 我国, 教育, 专家, 合作, 技术, 人才, 进行, 联邦, 联邦德国, 项目, 经验, 先进, 职业]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education079.txt
+[教育, 家庭, 家长, 调查, 子女, 社会, 上海, 孩子, 学校, 父母, 学生, 有的, 独生子女, 年轻, 初中]
+key words:	 [教育, 家庭, 家长, 调查, 子女, 社会, 上海, 孩子, 学校, 父母, 学生, 有的, 独生子女, 年轻, 初中]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education081.txt
+[西藏, 内地, 中学, 学生, 国家, 培养, 百分之七十, 学校, 今年, 升入, 1300名, 藏族, 记者, 教育, 子女]
+key words:	 [西藏, 内地, 中学, 学生, 国家, 培养, 百分之七十, 学校, 今年, 升入, 1300名, 藏族, 记者, 教育, 子女]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education083.txt
+[教育, 改革, 小学, 经验, 全面, 发展, 教学, 我国, 基础教育, 国家教委, 介绍, 升学, 追求, 贯彻, 升学率]
+key words:	 [教育, 改革, 小学, 经验, 全面, 发展, 教学, 我国, 基础教育, 国家教委, 介绍, 升学, 追求, 贯彻, 升学率]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education085.txt
+[中国, 马德里, 大学, 自治, 学生, 教师, 西班牙, 这里, 图书, 赠送, 分别, 一些, 目前, 200公顷, 面积]
+key words:	 [中国, 马德里, 大学, 自治, 学生, 教师, 西班牙, 这里, 图书, 赠送, 分别, 一些, 目前, 200公顷, 面积]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education087.txt
+[扫盲, 学习, 苗族, 记者, 夜校, 学员, 苗乡, 带领, 朗读, 青年, 一座, 介绍, 歌唱, 以及, 经过]
+key words:	 [扫盲, 学习, 苗族, 记者, 夜校, 学员, 苗乡, 带领, 朗读, 青年, 一座, 介绍, 歌唱, 以及, 经过]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education089.txt
+[学生, 少年, 比赛, 小学, 荣获, 优秀, 北京, 儿童, 中学, 一等奖, 联展, 获奖, 全国, 抢救, 书法]
+key words:	 [学生, 少年, 比赛, 小学, 荣获, 优秀, 北京, 儿童, 中学, 一等奖, 联展, 获奖, 全国, 抢救, 书法]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education091.txt
+[空军, 幼儿园, 子女, 艰苦, 修缮, 地区, 干部, 小学, 部队, 扩建, 边远, 入学, 人员, 入托, 飞行]
+key words:	 [空军, 幼儿园, 子女, 艰苦, 修缮, 地区, 干部, 小学, 部队, 扩建, 边远, 入学, 人员, 入托, 飞行]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education093.txt
+[宋庆龄, 少年宫, 和平区, 教育, 校外, 题词, 沈阳, 落成, 塑像, 少年儿童, 影响, 团体, 文艺, 儿童, 健康]
+key words:	 [宋庆龄, 少年宫, 和平区, 教育, 校外, 题词, 沈阳, 落成, 塑像, 少年儿童, 影响, 团体, 文艺, 儿童, 健康]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education095.txt
+[儿童, 中国, 教育, 幼儿, 乡村, 农村, 第一所, 平山县, 力量, 旨在, 筹建, 集资, 特色, 各方, 老区]
+key words:	 [儿童, 中国, 教育, 幼儿, 乡村, 农村, 第一所, 平山县, 力量, 旨在, 筹建, 集资, 特色, 各方, 老区]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education097.txt
+[教师, 青年, 学校, 工作, 政治, 科研, 设备, 教学, 西北, 项目, 以上, 进行, 大学, 国家, 自己]
+key words:	 [教师, 青年, 学校, 工作, 政治, 科研, 设备, 教学, 西北, 项目, 以上, 进行, 大学, 国家, 自己]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education099.txt
+[大学生, 容加金, 同学, 学生, 学习, 希望, 实干, 上海, 苦学, 工农, 大学, 陈至立, 市委, 坚定, 思想]
+key words:	 [大学生, 容加金, 同学, 学生, 学习, 希望, 实干, 上海, 苦学, 工农, 大学, 陈至立, 市委, 坚定, 思想]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education101.txt
+[毕业生, 分配, 安排, 单位, 计划, ——, 接收, 工作, 采取, 部门, 超编, 工资, 中专, 解决, 省政府]
+key words:	 [毕业生, 分配, 安排, 单位, 计划, ——, 接收, 工作, 采取, 部门, 超编, 工资, 中专, 解决, 省政府]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education103.txt
+[教育, 青春期, 进行, 转变, 通过, 特点, 知识, 理想, 生理, 学生, 懂得, 蚌埠市, 开展, 现实, 中学]
+key words:	 [教育, 青春期, 进行, 转变, 通过, 特点, 知识, 理想, 生理, 学生, 懂得, 蚌埠市, 开展, 现实, 中学]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education105.txt
+[教育, 青少年, 全市, 学校, 无锡市, 德育, 学生, 家庭, 社会, 建立, 工作, 实践, 家长, 之一, 调查]
+key words:	 [教育, 青少年, 全市, 学校, 无锡市, 德育, 学生, 家庭, 社会, 建立, 工作, 实践, 家长, 之一, 调查]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education107.txt
+[毕业生, 石油, 油田, 工作, 大学, 教育, 他们, 艰苦, 我们, 国家, 塔里木, 边疆, 思想, 分配, 家长]
+key words:	 [毕业生, 石油, 油田, 工作, 大学, 教育, 他们, 艰苦, 我们, 国家, 塔里木, 边疆, 思想, 分配, 家长]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education109.txt
+[奉献, 我们, 报告, 国家, 自己, 浙江, 学生, 大学, 大学生, 祖国, 杭州, 成才, 同学, 中国, 他们]
+key words:	 [奉献, 我们, 报告, 国家, 自己, 浙江, 学生, 大学, 大学生, 祖国, 杭州, 成才, 同学, 中国, 他们]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education111.txt
+[和田, 儿童, 中心, 落成, 福利, 日本, 援助, 教育, 丝绸之路, 中国, 入学, 仪器, 孤儿, 设备, 240名]
+key words:	 [和田, 儿童, 中心, 落成, 福利, 日本, 援助, 教育, 丝绸之路, 中国, 入学, 仪器, 孤儿, 设备, 240名]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education113.txt
+[孩子, 教育, 家长, 小朋友, 文化, 父母, 希望, 他们, 学习, 社会主义, 我们, 祖国, 节日, 祝贺, 儿童]
+key words:	 [孩子, 教育, 家长, 小朋友, 文化, 父母, 希望, 他们, 学习, 社会主义, 我们, 祖国, 节日, 祝贺, 儿童]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education115.txt
+[教育, 全国, 他们, 政协, 少年儿童, 座谈会, 委员, 家庭, 培养, 少年, 家长, 希望, 需要, 接班人, 成长]
+key words:	 [教育, 全国, 他们, 政协, 少年儿童, 座谈会, 委员, 家庭, 培养, 少年, 家长, 希望, 需要, 接班人, 成长]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education117.txt
+[交通, 儿童, 上海, 基地, 教育, 规则, 落成, 业余, 实验, 学校, 从小, 培养, 位居, 少年儿童, 人数]
+key words:	 [交通, 儿童, 上海, 基地, 教育, 规则, 落成, 业余, 实验, 学校, 从小, 培养, 位居, 少年儿童, 人数]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education119.txt
+[儿童, 世界, 他们, 呼吁, 所有, 庆祝, 健康, 代表, 各国, 各地, 虐待, 来自, 由于, 文化, 6日]
+key words:	 [儿童, 世界, 他们, 呼吁, 所有, 庆祝, 健康, 代表, 各国, 各地, 虐待, 来自, 由于, 文化, 6日]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education120.txt
+[基金会, 发展, 延安, 同志, 陕北, 成立, 老区, 支持, 黄华, 会长, 我们, 教科文, 今天, 国家教委, 倡议]
+key words:	 [基金会, 发展, 延安, 同志, 陕北, 成立, 老区, 支持, 黄华, 会长, 我们, 教科文, 今天, 国家教委, 倡议]
+
+TextRank
+精确率 ：	1.0000
+召回率 ：	1.0000
+f-measure ：	1.0000
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education001.txt
+[天文, 教育, 两岸, 举行, 大陆, 祖国, 学者, 研讨会, 推广, 各项, 目前, 紫金山, 南京, 中国科学院, 台长]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education003.txt
+[艺术, 教育, 学生, 我们, 能力, 学校, 他们, 发展, 音乐, 精神, 笔者, 教师, 一位, 不少, 中学]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education004.txt
+[沈阳, 大学生, 集邮, 邮票, 展出, 邮展, 其中, 6万多, 沈阳市, 我国, 通讯员, 第一次, 目前, 10日, 介绍]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education006.txt
+[学生, 中国, 电影, 鸦片战争, 影片, 通知, 教育, 活动, 爱国主义, 斗争, 全国, 开展, 树立, 逐步, 演变]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education008.txt
+[校园, 经济, 全市, 种植, 学校, 中小学, 开发, 诸城市, 开展, 发展, 培育, 花卉, 玉米, 教育, 小麦]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education010.txt
+[中国, 地质, 科学, 现在, 总书记, 我们, 发展, 知识分子, 讲话, 研究所, 名誉, 科学院, 传统, 全国, 提出]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education012.txt
+[知识分子, 讲话, 表示, 江泽民, 同志, 成长, 我国, 结合, 道路, 青年, 煤炭, 中国, 指出, 我们, 肩负]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education014.txt
+[教育, 教育工作者, 教师, 学生, 学校, 自己, 老师, 工作, 事业, 罚款, 管理, 重视, 错误, 人类, 现象]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education016.txt
+[希望, 工程, 捐款, 中国, 小学, 孩子, 贫困, 失学, 自己, 社会, 我们, 地区, ……, 他们, 全国]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education018.txt
+[艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education020.txt
+[爱国主义, 教育, 建设, 我国, 活动, 我们, 必须, 爱国, 人民, 历史, 群众, 精神, 文化, 开展, 民族]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education022.txt
+[教育, 地区, 计生, 太平村, 计划生育, 人口, 儿歌, 独生子女, 组织, 实行, 经济, 大家, 工作, 菏泽, 道路]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education024.txt
+[孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education026.txt
+[上海, 江泽民, 企业, 发展, 我们, 建设, 国有, 问题, 城市, 经济, 坚持, 改革, 全国, 国家, 代表]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education028.txt
+[科技, 高校, 发展, 工作, 教育, 改革, 社会, 经济, 研究, 人才, 全国, 期间, 建设, 李岚清, 结合]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education030.txt
+[学生, 学校, 八十, 北京, 教育, 开展, 科技, 体育, 活动, 特色, 高中, 培养, 社会, 质量, 他们]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education032.txt
+[教育, 发展, 九五, 全国, 高校, 义务教育, 目标, 改革, 办学, 工作, 规划, 体制, 期间, 两基, 实现]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education034.txt
+[日本, 学生, 教育, 学校, 他们, 知识, 部门, 孩子, 接待, 可以, 重要, 内容, 国民, 校外, 学习]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education036.txt
+[教育, 问题, 办学, 大学生, 一些, 发展, 经费, 解决, 队伍, 院校, 人才, 教师, 高校, 有关, 北京]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education038.txt
+[教育, 研究, 中心, 发展, 培养, 提出, 人才, 改革, 组织, 决策, 对策, 我国, 重大, 应用, 进行]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education040.txt
+[教育, 基础教育, 发展, 社会, 义务教育, 工作, 学生, 素质, 学校, 提高, 政府, 教学, 教师, 世纪, 改革]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education042.txt
+[教育, 李岚清, 发展, 改革, 考察, 职工, 工作, 安徽, 河南, 培养, 职业, 进一步, 转变, 社会, 指出]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education044.txt
+[职业, 教育, 发展, 我国, 人才, 期间, 社会, 改革, 国务院, 结构, 招生, 增加, 提高, 1990年, 不仅]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education046.txt
+[国家, 毕业生, 择业, 学生, 就业, 自主, 高校, 人才, 改革, 单位, 发展, 学校, 制度, 办法, 培养]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education048.txt
+[艺术, 教育, 社会, 我们, 人们, 接受, 孩子, 陶冶, 东西, 重要, 演出, 知识, 文化, 人才, 他们]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education051.txt
+[教育, 实施, 全国, 执法, 发展, 经费, 预算, 财政, 各级, 规定, 实行, 提高, 办学, 治教, 依法]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education053.txt
+[孩子, 父母, 家庭, 教育, 子女, 自己, 儿子, 尊重, 自我, 社会, 主持人, 人生, 我们, 形成, 意识]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education055.txt
+[初中, 阶段, 教育, 高中, 目标, 出发, 实际, 成绩, 完成, 质量, 关系, 地区, 由于, 农二师, 同志]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education057.txt
+[教育, 改革, 教师, 办学, 李岚清, 学校, 江西, 大学, 南昌, 地方, 培养, 老区, 建设, 考察, 教学]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education059.txt
+[学生, 迷信, 活动, 科学, 烧香, 有的, 我们, 提高, 孩子, 神庙, 知识, 兴趣, 学校, 由于, 认为]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education061.txt
+[学校, 家长, 学生, 太原, 情况, 联系, 家庭, 工大, 在校, 思想, 了解, 9月, 教育, 建议, 进行]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education063.txt
+[学生, 社会, 教育, 他们, 学校, 小学生, 小学, 长沙市, 参加, 实践, 家庭, 自己, 活动, 调查, 服务]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education065.txt
+[学生, 考核, 方案, 中学, 政治, 思想, 内容, 高校, 浙江省, 中学生, 试行, 心理, 情况, 办法, 克服]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education067.txt
+[家长, 孩子, 如何, 学校, 子女, 教育, 厦门, 学习, 家庭, 讲座, 我们, 方法, 结果, 营养, 开办]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education069.txt
+[升旗, 教育, 师生, 学校, 仪式, 担任, 进行, 制度, 有的, 济南, 建立, 中小学, 以来, 今年, 教委]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education071.txt
+[天津, 先生, 邵逸夫, 大学, 分别, 新馆, 落成, 图书馆, 南开, 代表, 提供, 幽雅, 建成, 舒适, 壮观]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education073.txt
+[教师, 教育, 中学, 师范, 他们, 院校, 希望, 校长, 事业, 报考, 学生, 中学生, 动员, 师资, 意义]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education075.txt
+[退款, 澳大利亚, 留学生, 海外, 学校, 申请, 英语, 重申, 驻华, 使馆, 政府, 保证, 作出, 代表, 已经]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education077.txt
+[培训, 中心, 我国, 教育, 专家, 合作, 技术, 人才, 进行, 联邦, 联邦德国, 项目, 经验, 先进, 职业]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education079.txt
+[教育, 家庭, 家长, 调查, 子女, 社会, 上海, 孩子, 学校, 父母, 学生, 有的, 独生子女, 年轻, 初中]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education081.txt
+[西藏, 内地, 中学, 学生, 国家, 培养, 百分之七十, 学校, 今年, 升入, 1300名, 藏族, 记者, 教育, 子女]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education083.txt
+[教育, 改革, 小学, 经验, 全面, 发展, 教学, 我国, 基础教育, 国家教委, 介绍, 升学, 追求, 贯彻, 升学率]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education085.txt
+[中国, 马德里, 大学, 自治, 学生, 教师, 西班牙, 这里, 图书, 赠送, 分别, 一些, 目前, 200公顷, 面积]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education087.txt
+[扫盲, 学习, 苗族, 记者, 夜校, 学员, 苗乡, 带领, 朗读, 青年, 一座, 介绍, 歌唱, 以及, 经过]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education089.txt
+[学生, 少年, 比赛, 小学, 荣获, 优秀, 北京, 儿童, 中学, 一等奖, 联展, 获奖, 全国, 抢救, 书法]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education091.txt
+[空军, 幼儿园, 子女, 艰苦, 修缮, 地区, 干部, 小学, 部队, 扩建, 边远, 入学, 人员, 入托, 飞行]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education093.txt
+[宋庆龄, 少年宫, 和平区, 教育, 校外, 题词, 沈阳, 落成, 塑像, 少年儿童, 影响, 团体, 文艺, 儿童, 健康]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education095.txt
+[儿童, 中国, 教育, 幼儿, 乡村, 农村, 第一所, 平山县, 力量, 旨在, 筹建, 集资, 特色, 各方, 老区]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education097.txt
+[教师, 青年, 学校, 工作, 政治, 科研, 设备, 教学, 西北, 项目, 以上, 进行, 大学, 国家, 自己]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education099.txt
+[大学生, 容加金, 同学, 学生, 学习, 希望, 实干, 上海, 苦学, 工农, 大学, 陈至立, 市委, 坚定, 思想]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education101.txt
+[毕业生, 分配, 安排, 单位, 计划, ——, 接收, 工作, 采取, 部门, 超编, 工资, 中专, 解决, 省政府]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education103.txt
+[教育, 青春期, 进行, 转变, 通过, 特点, 知识, 理想, 生理, 学生, 懂得, 蚌埠市, 开展, 现实, 中学]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education105.txt
+[教育, 青少年, 全市, 学校, 无锡市, 德育, 学生, 家庭, 社会, 建立, 工作, 实践, 家长, 之一, 调查]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education107.txt
+[毕业生, 石油, 油田, 工作, 大学, 教育, 他们, 艰苦, 我们, 国家, 塔里木, 边疆, 思想, 分配, 家长]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education109.txt
+[奉献, 我们, 报告, 国家, 自己, 浙江, 学生, 大学, 大学生, 祖国, 杭州, 成才, 同学, 中国, 他们]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education111.txt
+[和田, 儿童, 中心, 落成, 福利, 日本, 援助, 教育, 丝绸之路, 中国, 入学, 仪器, 孤儿, 设备, 240名]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education113.txt
+[孩子, 教育, 家长, 小朋友, 文化, 父母, 希望, 他们, 学习, 社会主义, 我们, 祖国, 节日, 祝贺, 儿童]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education115.txt
+[教育, 全国, 他们, 政协, 少年儿童, 座谈会, 委员, 家庭, 培养, 少年, 家长, 希望, 需要, 接班人, 成长]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education117.txt
+[交通, 儿童, 上海, 基地, 教育, 规则, 落成, 业余, 实验, 学校, 从小, 培养, 位居, 少年儿童, 人数]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education119.txt
+[儿童, 世界, 他们, 呼吁, 所有, 庆祝, 健康, 代表, 各国, 各地, 虐待, 来自, 由于, 文化, 6日]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
+E:\ItemForGo\src\github.com\shaalx\sstruct\static\corpus\C5-Education\C5-Education120.txt
+[基金会, 发展, 延安, 同志, 陕北, 成立, 老区, 支持, 黄华, 会长, 我们, 教科文, 今天, 国家教委, 倡议]
+key words:	 []
+
+TextRank
+精确率 ：	NaN
+召回率 ：	0.0000
+f-measure ：	NaN
+
