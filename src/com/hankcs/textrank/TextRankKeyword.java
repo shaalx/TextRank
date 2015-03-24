@@ -165,15 +165,16 @@ public class TextRankKeyword
 		f_measure = (b*b + 1) * pricise * recall / (b*b*pricise + recall);
 		
 		String pricise_string = String.format("精确率 ：\t%.4f\n", pricise);
-		String recall_string = String.format("精确率 ：\t%.4f\n", recall);
-		String f_measure_string = String.format("精确率 ：\t%.4f\n", f_measure);
+		String recall_string = String.format("召回率 ：\t%.4f\n", recall);
+		String f_measure_string = String.format("f-measure ：\t%.4f\n", f_measure);
 		
-		String result = pricise_string + recall_string + f_measure_string;
+		String result = "\nTextRank\n";
+		result += pricise_string + recall_string + f_measure_string;
 		return result;
 	}
     public static void main(String[] args)
     {
-    	String filename = "file.txt";
+    	String filename = "C34-Economy0002.txt";
         String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
         String key_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\";
         TextRankKeyword textRankKeyword = new TextRankKeyword();
@@ -223,7 +224,7 @@ public class TextRankKeyword
     		dict.add("上");dict.add("从");dict.add("不");dict.add("也");dict.add("其");
     		dict.add("对");dict.add("没有");dict.add("这么");dict.add("这些");dict.add("一个");
     		dict.add("将");dict.add("而");dict.add("地");dict.add("他");dict.add("她");dict.add("它");
-    		dict.add("会");dict.add("你");dict.add("我");
+    		dict.add("会");dict.add("你");dict.add("我");dict.add("这个");
     	}
     	public boolean contains(String termname) {
     		return dict.contains(termname);
