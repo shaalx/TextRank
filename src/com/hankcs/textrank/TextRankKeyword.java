@@ -3,7 +3,18 @@
 import org.ansj.domain.Term;
 import org.ansj.splitWord.analysis.ToAnalysis;
 
+import com.sun.corba.se.spi.orbutil.fsm.Guard.Result;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
 import java.util.*;
+
+import javax.print.DocFlavor.STRING;
+import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  * TextRank关键词提取
@@ -11,7 +22,8 @@ import java.util.*;
  */
 public class TextRankKeyword
 {
-    public static final int nKeyword = 10;
+    public static int nKeyword = 5;
+    StopWordDictionary StopWordDict = new StopWordDictionary();
     /**
      * 阻尼系数（ＤａｍｐｉｎｇＦａｃｔｏｒ），一般取值为0.85
      */
@@ -28,10 +40,40 @@ public class TextRankKeyword
         System.setProperty("java.util.Arrays.useLegacyMergeSort", "true");
     }
 
-    public String getKeyword(String title, String content)
+    public List<Term> getTerms(String file){
+		List<Term> terms = new ArrayList<Term>();
+        StringBuffer strSb = new StringBuffer(); //String is constant， StringBuffer can be changed.
+        try{
+	        InputStreamReader inStrR = new InputStreamReader(new FileInputStream(file), "utf-8"); //byte streams to character streams
+	        BufferedReader br = new BufferedReader(inStrR); 
+	        String line = br.readLine();
+	        String[] spilts = line.split("\t");
+	        for (String it : spilts) {
+	        	terms.add(new Term(it, 2, null));
+			}
+	        inStrR.close();
+       	}catch(Exception e){}
+		return terms;
+	}
+    public List<String> getKeys(String file){
+		List<String> terms = new ArrayList<String>();
+        StringBuffer strSb = new StringBuffer(); //String is constant， StringBuffer can be changed.
+        try{
+	        InputStreamReader inStrR = new InputStreamReader(new FileInputStream(file), "utf-8"); //byte streams to character streams
+	        BufferedReader br = new BufferedReader(inStrR); 
+	        String line = br.readLine();
+	        String[] spilts = line.split("\t");
+	        for (String it : spilts) {
+	        	terms.add(it);
+			}
+	        inStrR.close();
+       	}catch(Exception e){}
+		return terms;
+	}
+    public List<String> getKeyword(String filename)
     {
-        List<Term> termList = ToAnalysis.parse(title + content);
-//        System.out.println(termList);
+//        List<Term> termList = ToAnalysis.parse(content);
+    	List<Term> termList = getTerms(filename);
         List<String> wordList = new ArrayList<String>();
         for (Term t : termList)
         {
@@ -101,19 +143,45 @@ public class TextRankKeyword
             }
         });
 //        System.out.println(entryList);
-        String result = "";
+        List<String> result = new ArrayList<String>();
         for (int i = 0; i < nKeyword; ++i)
         {
-            result += entryList.get(i).getKey() + '#';
+//            result += entryList.get(i).getKey() + '\t' + entryList.get(i).getValue()+"\n";
+        	result.add(entryList.get(i).getKey());
         }
         return result;
     }
-
+    public String PriciseAndRecall(List<String> terms,List<String> keys) {
+		double pricise = 0.0, recall = 0.0 , keys_len = (double)(keys.size()) ,terms_len = (double)(terms.size()) , right_count = 0.0, b = 1.0, f_measure = 0.0;
+		
+		for (String it : terms) {
+			if (keys.contains(it)) {
+				right_count +=1.0;
+			}
+		}
+		
+		pricise = right_count/keys_len;
+		recall = right_count / terms_len;
+		f_measure = (b*b + 1) * pricise * recall / (b*b*pricise + recall);
+		
+		String pricise_string = String.format("精确率 ：\t%.4f\n", pricise);
+		String recall_string = String.format("精确率 ：\t%.4f\n", recall);
+		String f_measure_string = String.format("精确率 ：\t%.4f\n", f_measure);
+		
+		String result = pricise_string + recall_string + f_measure_string;
+		return result;
+	}
     public static void main(String[] args)
     {
-        String content = "程序员(英文Programmer)是从事程序开发、维护的专业人员。一般将程序员分为程序设计人员和程序编码人员，但两者的界限并不非常清楚，特别是在中国。软件从业人员分为初级程序员、高级程序员、系统分析员和项目经理四大类。";
-        System.out.println(new TextRankKeyword().getKeyword("", content));
-
+        String filename = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\C34-Economy0002.txt";
+        String keyword_filename = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\C34-Economy0002.txt";
+        TextRankKeyword textRankKeyword = new TextRankKeyword();
+        List<String> terms = textRankKeyword.getKeyword(filename);
+        List<String> keys = textRankKeyword.getKeys(keyword_filename);
+        System.out.println(terms);
+        System.out.println(keys);
+        String result = textRankKeyword.PriciseAndRecall(terms, keys);
+        System.out.print(result);
     }
 
     /**
@@ -123,20 +191,36 @@ public class TextRankKeyword
      */
     public boolean shouldInclude(Term term)
     {
-        if (
-                term.getNatrue().natureStr.startsWith("n") ||
-                term.getNatrue().natureStr.startsWith("v") ||
-                term.getNatrue().natureStr.startsWith("d") ||
-                term.getNatrue().natureStr.startsWith("a")
-                )
-        {
-            // TODO 你需要自己实现一个停用词表
-//            if (!StopWordDictionary.contains(term.getName()))
-//            {
-                return true;
-//            }
-        }
-
-        return false;
+//        if (
+//                term.getNatrue().natureStr.startsWith("n") ||
+//                term.getNatrue().natureStr.startsWith("v") ||
+//                term.getNatrue().natureStr.startsWith("d") ||
+//                term.getNatrue().natureStr.startsWith("a")
+//                )
+//        {
+//            // TODO 你需要自己实现一个停用词表
+////            if (!StopWordDictionary.contains(term.getName()))
+////            {
+//                return true;
+////            }
+//        }
+      if (!StopWordDict.contains(term.getName()))
+      {
+          return true;
+      }
+      return false;
+    }
+    class StopWordDictionary{
+    	List<String> dict = new ArrayList<String>();
+    	public StopWordDictionary(){
+    		dict.add("的");dict.add("在");dict.add("是");dict.add("与");dict.add("了");
+    		dict.add("和");dict.add("一");dict.add("中");dict.add("这");dict.add("使");
+    		dict.add("上");dict.add("从");dict.add("不");dict.add("也");dict.add("其");
+    		dict.add("对");dict.add("没有");dict.add("这么");dict.add("这些");dict.add("一个");
+    		dict.add("将");dict.add("而");dict.add("地");dict.add("他");dict.add("她");dict.add("它");
+    	}
+    	public boolean contains(String termname) {
+    		return dict.contains(termname);
+		}
     }
 }
