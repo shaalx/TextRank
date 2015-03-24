@@ -173,13 +173,18 @@ public class TextRankKeyword
 	}
     public static void main(String[] args)
     {
-        String filename = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\C34-Economy0002.txt";
-        String keyword_filename = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\C34-Economy0002.txt";
+    	String filename = "file.txt";
+        String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
+        String key_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\";
         TextRankKeyword textRankKeyword = new TextRankKeyword();
-        List<String> terms = textRankKeyword.getKeyword(filename);
-        List<String> keys = textRankKeyword.getKeys(keyword_filename);
-        System.out.println(terms);
+        
+        System.out.println(key_dir + filename);
+        List<String> keys = textRankKeyword.getKeys(key_dir + filename);
         System.out.println(keys);
+        
+        System.out.println(origin_dir + filename);
+        List<String> terms = textRankKeyword.getKeyword(origin_dir + filename);
+        System.out.println(terms);
         String result = textRankKeyword.PriciseAndRecall(terms, keys);
         System.out.print(result);
     }
@@ -218,6 +223,7 @@ public class TextRankKeyword
     		dict.add("上");dict.add("从");dict.add("不");dict.add("也");dict.add("其");
     		dict.add("对");dict.add("没有");dict.add("这么");dict.add("这些");dict.add("一个");
     		dict.add("将");dict.add("而");dict.add("地");dict.add("他");dict.add("她");dict.add("它");
+    		dict.add("会");dict.add("你");dict.add("我");
     	}
     	public boolean contains(String termname) {
     		return dict.contains(termname);
