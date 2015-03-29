@@ -25,7 +25,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  */
 public class TextRankKeyword
 {
-    public static int nKeyword = 15;
+    public static int nKeyword = 10;
     StopWordDictionary StopWordDict = new StopWordDictionary();
     /**
      * 阻尼系数（ＤａｍｐｉｎｇＦａｃｔｏｒ），一般取值为0.85
@@ -55,14 +55,16 @@ public class TextRankKeyword
 	        	terms.add(new Term(it, 2, null));
 			}
 	        inStrR.close();
-       	}catch(Exception e){}
+       	}catch(Exception e){
+       		System.out.print(e);
+       	}
 		return terms;
 	}
     public List<Term> getTermsFormAnalysis(String filename) {
 		List<Term> terms = new ArrayList<Term>();
         StringBuffer strSb = new StringBuffer(); //String is constant， StringBuffer can be changed.
         try{
-	        InputStreamReader inStrR = new InputStreamReader(new FileInputStream(filename), "gbk"); //byte streams to character streams
+	        InputStreamReader inStrR = new InputStreamReader(new FileInputStream(filename), "utf-8"); //byte streams to character streams
 	        BufferedReader br = new BufferedReader(inStrR);
 	        String line = br.readLine();
 	        List<Term> termList;
@@ -87,14 +89,16 @@ public class TextRankKeyword
 	        	terms.add(it);
 			}
 	        inStrR.close();
-       	}catch(Exception e){}
+       	}catch(Exception e){
+       		System.out.print(e);
+       	}
 		return terms;
 	}
     public List<String> getKeyword(String filename)
     {
 //        List<Term> termList = ToAnalysis.parse(content);
-//    	List<Term> termList = getTerms(filename);
-    	List<Term> termList = getTermsFormAnalysis(filename);
+    	List<Term> termList = getTerms(filename);
+//    	List<Term> termList = getTermsFormAnalysis(filename);
         List<String> wordList = new ArrayList<String>();
         for (Term t : termList)
         {
@@ -273,31 +277,33 @@ public class TextRankKeyword
     public static void main(String[] args)
     {
 //        String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\origin\\";
-    	String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\corpus\\C5-Education\\";
-        String spilt_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
-        String key_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\";
-        String stat_dir = "./stat/";
+////    	String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\corpus\\C5-Education\\";
+//        String spilt_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
+//        String key_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\";
+//        String stat_dir = "./stat/";
         TextRankKeyword textRankKeyword = new TextRankKeyword();
-        textRankKeyword.AutoTextRank(origin_dir, key_dir, stat_dir);
+//        textRankKeyword.AutoTextRank(origin_dir, key_dir, stat_dir);
+    textRankKeyword.test();
     }
     
     public void test() {
-    	String filename = "file.txt";
-        String origin_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\origin\\";
-        String spilt_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
-        String key_dir = "E:\\ItemForGo\\src\\github.com\\shaalx\\sstruct\\static\\key\\";
+    	String root = "D:\\GIT\\"; //E:\\ItemForGo\\
+    	String filename = "flight.txt";
+        String origin_dir = "src\\github.com\\shaalx\\sstruct\\static\\origin\\";
+        String spilt_dir = "src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
+        String key_dir = "src\\github.com\\shaalx\\sstruct\\static\\key\\";
         TextRankKeyword textRankKeyword = new TextRankKeyword();
         
-//      List<String> terms = textRankKeyword.getKeyword(spilt_dir + filename);
-//      System.out.println(spilt_dir + filename);        
+      List<String> terms = textRankKeyword.getKeyword(root + spilt_dir + filename);
+      System.out.println(root + spilt_dir + filename);        
 
-        List<String> terms = textRankKeyword.getKeyword(origin_dir + filename);        
-        System.out.println(origin_dir + filename);
+//        List<String> terms = textRankKeyword.getKeyword(root + origin_dir + filename);        
+//        System.out.println(origin_dir + filename);
         
         System.out.println(terms);
         
-        List<String> keys = textRankKeyword.getKeys(key_dir + filename);
-        System.out.println(key_dir + filename);
+        List<String> keys = textRankKeyword.getKeys(root + key_dir + filename);
+        System.out.println(root + key_dir + filename);
         System.out.println(keys);
         
         String result = textRankKeyword.PriciseAndRecall(terms, keys);
