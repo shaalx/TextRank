@@ -288,7 +288,7 @@ public class TextRankKeyword
     
     public void test() {
     	String root = "D:\\GIT\\"; //E:\\ItemForGo\\
-    	String filename = "flight.txt";
+    	String filename = "internet02.txt";
         String origin_dir = "src\\github.com\\shaalx\\sstruct\\static\\origin\\";
         String spilt_dir = "src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
         String key_dir = "src\\github.com\\shaalx\\sstruct\\static\\key\\";
