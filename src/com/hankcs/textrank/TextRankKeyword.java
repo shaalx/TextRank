@@ -288,29 +288,47 @@ public class TextRankKeyword
     }
     
     public void test() {
-//    	String root = "D:\\GIT\\"; 
-    	String root = "E:\\ItemForGo\\";
+    	String root = "D:\\GIT\\"; 
+//    	String root = "E:\\ItemForGo\\";
     	String filename = "C34-Economy0002.txt";
-//    	"" "C19-Computer0006.txt"
+//    	"" "C34-Economy0003.txt" "C34-Economy0008.txt" 	"C34-Economy0012.txt"
         String origin_dir = "src\\github.com\\shaalx\\sstruct\\static\\origin\\";
         String spilt_dir = "src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
         String key_dir = "src\\github.com\\shaalx\\sstruct\\static\\key\\";
+        String stat_dir = ".\\stat\\";
         TextRankKeyword textRankKeyword = new TextRankKeyword();
         
-      List<String> terms = textRankKeyword.getKeyword(root + spilt_dir + filename);
-      System.out.println(root + spilt_dir + filename);        
+        
+        List<String> keys = textRankKeyword.getKeys(root + key_dir + filename);
+        System.out.println(root + key_dir + filename);
+        System.out.println(keys);
+        textRankKeyword.nKeyword = keys.size()+2;
+        
+	    List<String> terms = textRankKeyword.getKeyword(root + spilt_dir + filename);
+	    System.out.println(root + spilt_dir + filename);        
 
 //        List<String> terms = textRankKeyword.getKeyword(root + origin_dir + filename);        
 //        System.out.println(origin_dir + filename);
         
         System.out.println(terms);
         
-        List<String> keys = textRankKeyword.getKeys(root + key_dir + filename);
-        System.out.println(root + key_dir + filename);
-        System.out.println(keys);
-        
         String result = textRankKeyword.PriciseAndRecall(terms, keys);
         System.out.print(result);
+        
+        String result_format = "";
+        result_format += "\nTextRank算法推荐关键字： [";
+        for(String it: terms){
+        	result_format+=it+"  ";
+        }
+        
+        result_format += " ]\n人工提取的关键字：[ ";
+        for(String it: keys){
+        	result_format+=it+"  ";
+        }
+        
+        result_format += " ]\n" + result;
+        
+        textRankKeyword.writeToFile(stat_dir, filename, result_format);
 	}
     /**
      * 是否应当将这个term纳入计算，词性属于名词、动词、副词、形容词
