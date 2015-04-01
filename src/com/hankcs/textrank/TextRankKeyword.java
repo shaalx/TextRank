@@ -84,9 +84,10 @@ public class TextRankKeyword
 	        InputStreamReader inStrR = new InputStreamReader(new FileInputStream(file), "utf-8"); //byte streams to character streams
 	        BufferedReader br = new BufferedReader(inStrR); 
 	        String line = br.readLine();
-	        String[] spilts = line.split("\t");
+	        String[] spilts = line.split(",");
 	        for (String it : spilts) {
 	        	terms.add(it);
+	        	System.out.println("key -- "+it);
 			}
 	        inStrR.close();
        	}catch(Exception e){
@@ -287,8 +288,10 @@ public class TextRankKeyword
     }
     
     public void test() {
-    	String root = "D:\\GIT\\"; //E:\\ItemForGo\\
-    	String filename = "internet02.txt";
+//    	String root = "D:\\GIT\\"; 
+    	String root = "E:\\ItemForGo\\";
+    	String filename = "C34-Economy0002.txt";
+//    	"" "C19-Computer0006.txt"
         String origin_dir = "src\\github.com\\shaalx\\sstruct\\static\\origin\\";
         String spilt_dir = "src\\github.com\\shaalx\\sstruct\\static\\spilt\\";
         String key_dir = "src\\github.com\\shaalx\\sstruct\\static\\key\\";
