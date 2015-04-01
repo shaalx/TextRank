@@ -1,3 +1,9 @@
+*.classpath
+*.project
+/*.classpath
+*.classpath
+
+
 /.idea
 /out
 *.class
